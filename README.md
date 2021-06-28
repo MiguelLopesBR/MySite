@@ -1,6 +1,13 @@
-                      ![fotoprogithub](https://user-images.githubusercontent.com/84517409/123695039-74878380-d830-11eb-9484-5899b6498423.png)
-                      fotoprogithub2.png
+VIDEO DO SITE:
+https://youtu.be/aYgDfN-Y66E - Entrando, abrindo menu e vendo todas as animações.
+
+PRINTSCREEN'S do site:
+https://ibb.co/k6CxTnN - AO ENTRAR
+https://ibb.co/MS0ZhWS - MENU
+
                       
-           Além do site estático, ele tem uma animação de zoom ao abrir, e animações de mudar a cor ao passar o mouse no botão de REGISTRAR-SE, ou nas opções no menu.
-                    Meu objetivo ainda é fazer com que ele tenha seu próprio sistema de log-in, e sendo possível facilmente deslogar e criar uma conta.
+Além do site estático, ele tem uma animação de zoom ao abrir, e animações de mudar a cor ao passar o mouse no botão de REGISTRAR-SE, ou nas opções no menu. Meu objetivo ainda é fazer com que ele tenha seu próprio sistema de log-in, e sendo possível facilmente deslogar e criar uma conta.
+
+Esse site está sendo feito com HTML5, CSS3 e JAVASCRIPT. 
+Desenvolvido na IDE, Visual Studio Code.
 
