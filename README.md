@@ -1,9 +1,5 @@
 ## MeuSite
-<p align="center">Um site em desenvolvimento com HTML,CSS E JS</p>
-
-
-
-
+>Um site desenvolvido com HTML, CSS e JS.</p>
 
 VIDEO DO SITE:
 https://youtu.be/aYgDfN-Y66E - Entrando, abrindo menu e vendo todas as animações.
